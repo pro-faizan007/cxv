@@ -1,13 +1,14 @@
-👋 Hi, I’m @faizan-hafeez007, currently working as a Full Stack Developer at Arhamsoft.
+<h3 align="center">Hi, I'm @faizan-hafeez007, a Full Stack Developer from Pakistan currently working at Arhamsoft.</h3>
 
-👀 I enjoy creating efficient and user-friendly web applications. The challenge of solving complex problems and transforming them into simple, beautiful code is what drives me.
+<h3 align="left">About Me:</h3>
+<p align="left">
+I enjoy creating efficient and user-friendly web applications. The challenge of solving complex problems and transforming them into simple, beautiful code is what drives me. At present, I'm honing my skills in React for front-end development, and Laravel, CodeIgniter, and PHP for back-end development. I'm also proficient in managing databases using MySQL. I'm open to collaborating on innovative projects that push the boundaries of web development. I firmly believe in the power of teamwork and am always ready to learn something new.
+</p>
 
-🌱 At present, I'm exploring my abilities in React for front-end development, and Laravel, CodeIgniter, and PHP for back-end development. I'm also proficient in managing databases using MySQL.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+You can reach me at faizanhafeez000@gmail.com. Let's connect and create something amazing together!
+</p>
 
-💞️ I’m open to collaborating on innovative projects that push the boundaries of web development. I firmly believe in the power of teamwork and am always ready to learn something new.
-
-📫 Feel free to reach me at faizanhafeez000@gmail.com. Let's connect and create something amazing together!
-
-😄 Pronouns: He/Him. I'm looking for a She/Her with a beautiful personality. A beautiful face is a plus, haha!
-
-⚡ Fun fact: When I'm not coding, you can find me exploring the great outdoors. I believe that a good hike is the perfect way to clear the mind and find inspiration for my next project.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original
