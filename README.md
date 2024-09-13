@@ -3,7 +3,7 @@
   <img src="https://your-banner-link.com/banner.gif" alt="Your banner" />
 </p>
 
-<h1 align="center">Hey there! 👋 I'm MUHAMMAD FAIZAN HAFEEZ FROM PAKKISTAN CURENTLY LIVING AND WORKING IN LAHORE AS A BACKEND DEVELOPER IN ARHAMSOFT JOHAR TOWN LAHORE</h1>
+<h1 align="center">Hey there! 👋 I'm MUHAMMAD FAIZAN HAFEEZ FROM PAKISTAN CURENTLY LIVING AND WORKING IN LAHORE AS A BACKEND DEVELOPER IN ARHAMSOFT JOHAR TOWN LAHORE</h1>
 
 <p align="center">
   <em>Full-stack developer | Open source enthusiast | PHP, LARAVEL, JAVASCRIPT, REACT, NEXT JS, NODE JS, EXPRESS JS, MONGO DB, MY SQL, POSTGRESQL </em>
