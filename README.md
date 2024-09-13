@@ -89,16 +89,6 @@
 
 ---
 
-### 🎯 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Deploy Node.js App to AWS](https://yourblog.com/nodejs-aws-deploy)
-- [Understanding React Hooks](https://yourblog.com/react-hooks)
-- [Building a REST API with Express and MongoDB](https://yourblog.com/rest-api-express)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <p align="center">✨ Thanks for visiting my profile ✨</p>
 
 <p align="center">
